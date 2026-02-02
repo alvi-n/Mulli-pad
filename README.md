@@ -1,4 +1,4 @@
-# Mullipad ⛳
+# Mullipad
 > By Alvin Nguyen
 
 ## 5-Key Macropad featuring: 
