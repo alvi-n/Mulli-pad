@@ -19,9 +19,9 @@ This was a fun 3-week project to learn about PCB making, and it was fun modeling
 | !["Schematic"](https://github.com/alvi-n/Mulli-pad/blob/main/screenshots/schematic.PNG) | ![PCB](https://github.com/alvi-n/Mulli-pad/blob/main/screenshots/pcbwithoutfill.PNG) |
 
 ### Future Plans
-I'm planning on using transparent 3d filament for the base so the light can glow on the bottom. This will also be used for my Hack Club at my school as an example project.
-The plate will be glued on...
-**The OLED screen will be connected to the pcb by wires which will be soldered on**
+- I'm planning on using transparent 3d filament for the base so the light can glow on the bottom. This will also be used for my Hack Club at my school as an example project.
+- The plate will be glued on...
+- **The OLED screen will be connected to the pcb by wires which will be soldered on**
 
 # BOM
 
