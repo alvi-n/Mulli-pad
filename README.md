@@ -2,7 +2,7 @@
 > By Alvin Nguyen
 
 ## 5-Key Macropad featuring: 
-- 5️⃣ key switches 
+- Rotary Encoder (Knob)
 - Full RGB backlighting using Neopixels 
 - Small OLED screen 
 - Recessed Base to give a _"floating"_ effect 
@@ -20,6 +20,8 @@ This was a fun 3-week project to learn about PCB making, and it was fun modeling
 
 ### Future Plans
 I'm planning on using transparent 3d filament for the base so the light can glow on the bottom. This will also be used for my Hack Club at my school as an example project.
+
+**The OLED screen will be connected to the pcb by wires which will be soldered on**
 
 # BOM
 
